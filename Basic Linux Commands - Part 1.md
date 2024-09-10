@@ -1,4 +1,4 @@
-# **Basic Linux Commands - Part 1 **
+# **Basic Linux Commands - Part 1**
 
 ## What is Linux?
 
