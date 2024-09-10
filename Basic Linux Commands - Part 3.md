@@ -194,7 +194,7 @@ file2.txt
 The `tar` command creates an archive of files and directories. The `-c` option creates a new archive, `-v` provides a verbose output, and `-f` specifies the filename. For instance, `tar -cvf archive.tar file1.txt file2.txt` creates "archive.tar" containing "file1.txt" and "file2.txt".
 
 ---
----
+
 
 **Creator: Shashank Naik | Cloud Computing Intern, WEBXELA**
 
