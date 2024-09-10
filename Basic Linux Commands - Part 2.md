@@ -195,7 +195,6 @@ The `find` command searches for files and directories that match criteria. For i
 
 
 ---
----
 
 **Creator: Shashank Naik | Cloud Computing Intern, WEBXELA**
 
