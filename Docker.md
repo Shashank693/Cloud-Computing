@@ -81,3 +81,10 @@ This command tells Docker to run your application and map port 80 in the contain
 ## Conclusion
 
 Docker simplifies the way we develop, test, and deploy software by packaging applications into containers. This ensures consistency, efficiency, and ease of use across different environments. Whether you’re a student just starting out or a professional working in tech, understanding Docker can be a valuable skill.
+---
+
+**Creator: Shashank Naik | Cloud Computing Intern, WEBXELA**
+
+- [LinkedIn](https://www.linkedin.com/in/shashank-naik09061319)
+- [GitHub](https://github.com/Shashank693)
+---
